@@ -1,0 +1,11 @@
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\bin\Debug\Advent of code - Day 3.exe.config
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\bin\Debug\Advent of code - Day 3.exe
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\bin\Debug\Advent of code - Day 3.pdb
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\bin\Debug\Advent of code - Day 3.xml
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.vbprojResolveAssemblyReference.cache
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent_of_code___Day_3.Resources.resources
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.vbproj.GenerateResource.Cache
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.vbproj.CoreCompileInputs.cache
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.exe
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.xml
+E:\VB PROGRAMS\Advent of code - Day 3\Advent of code - Day 3\obj\Debug\Advent of code - Day 3.pdb

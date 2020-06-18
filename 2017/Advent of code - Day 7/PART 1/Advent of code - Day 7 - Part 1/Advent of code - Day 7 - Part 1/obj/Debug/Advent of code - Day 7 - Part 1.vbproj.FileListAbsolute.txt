@@ -1,0 +1,31 @@
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe.config
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.pdb
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.xml
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbprojResolveAssemblyReference.cache
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent_of_code___Day_7___Part_1.Resources.resources
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbproj.GenerateResource.Cache
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.exe
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.xml
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.pdb
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe.config
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.exe
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.xml
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.pdb
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.pdb
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.xml
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbprojResolveAssemblyReference.cache
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent_of_code___Day_7___Part_1.Resources.resources
+\\SanShare1\HomeStudents$\13\AdamArCO13\Y11\COMPUTER SCIENCE\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbproj.GenerateResource.Cache
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbprojResolveAssemblyReference.cache
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent_of_code___Day_7___Part_1.Resources.resources
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbproj.GenerateResource.Cache
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.vbproj.CoreCompileInputs.cache
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.exe
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.xml
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\obj\Debug\Advent of code - Day 7 - Part 1.pdb
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe.config
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.exe
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.pdb
+F:\ADVENT OF CODE\Advent of code - Day 7\PART 1\Advent of code - Day 7 - Part 1\Advent of code - Day 7 - Part 1\bin\Debug\Advent of code - Day 7 - Part 1.xml

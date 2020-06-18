@@ -1,0 +1,21 @@
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.exe.config
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.exe
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.pdb
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.xml
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.vbprojResolveAssemblyReference.cache
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent_of_code___Day_2.Resources.resources
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.vbproj.GenerateResource.Cache
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.exe
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.xml
+H:\Y11\COMPUTER SCIENCE\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.pdb
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.exe.config
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.exe
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.pdb
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\bin\Debug\Advent of code - Day 2.xml
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.vbprojResolveAssemblyReference.cache
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent_of_code___Day_2.Resources.resources
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.vbproj.GenerateResource.Cache
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.vbproj.CoreCompileInputs.cache
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.exe
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.xml
+E:\VB PROGRAMS\Advent of code - Day 2\Advent of code - Day 2\Advent of code - Day 2\obj\Debug\Advent of code - Day 2.pdb

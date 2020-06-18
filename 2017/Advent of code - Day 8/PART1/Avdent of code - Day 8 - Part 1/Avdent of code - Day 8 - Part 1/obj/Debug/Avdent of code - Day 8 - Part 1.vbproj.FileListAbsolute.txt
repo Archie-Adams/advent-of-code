@@ -1,0 +1,10 @@
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\bin\Debug\Avdent of code - Day 8 - Part 1.exe.config
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\bin\Debug\Avdent of code - Day 8 - Part 1.exe
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\bin\Debug\Avdent of code - Day 8 - Part 1.pdb
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\bin\Debug\Avdent of code - Day 8 - Part 1.xml
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent_of_code___Day_8___Part_1.Resources.resources
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent of code - Day 8 - Part 1.vbproj.GenerateResource.Cache
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent of code - Day 8 - Part 1.vbproj.CoreCompileInputs.cache
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent of code - Day 8 - Part 1.exe
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent of code - Day 8 - Part 1.xml
+F:\ADVENT OF CODE\Advent of code - Day 8\PART1\Avdent of code - Day 8 - Part 1\Avdent of code - Day 8 - Part 1\obj\Debug\Avdent of code - Day 8 - Part 1.pdb
