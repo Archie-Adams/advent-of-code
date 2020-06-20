@@ -1,4 +1,6 @@
-﻿Module Module1
+﻿Imports System.Collections.Generic
+
+Module Module1
 
     Sub Main()
 
