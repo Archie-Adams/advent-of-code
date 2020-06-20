@@ -15,7 +15,7 @@ Module Module1
             input(instructionIndex) += 1
             instructionIndex += instruction
             steps += 1
-            if instructionIndex > input.count() - 1 then Exit while
+            if instructionIndex > input.count() - 1 then exit while
             instruction = input(instructionIndex)
         end while
 
