@@ -10,10 +10,10 @@ Module Module1
 
         For Each line In input
 
-            ' Split line on spaces to an array
+            ' Split line on spaces to an array.
             dim words as string() = line.split(new string() {" "}, stringsplitoptions.none)
 
-            ' Check if all values in the array are unique
+            ' Check if all values in the array are unique.
             dim matchingWords as boolean = false
             for x = 0 to words.count - 1
                 for i = 0 to words.count - 1
