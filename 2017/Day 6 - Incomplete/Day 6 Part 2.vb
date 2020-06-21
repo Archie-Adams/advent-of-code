@@ -7,8 +7,7 @@ Module Module1
         dim m as string() = "0,5,10,0,11,14,13,4,11,8,8,7,1,4,12,11".split(",")
         dim memory = array.convertall(m, Function(str) Int32.Parse(str))
         
-        dim oldMemory as new list(of string)
-        dim redistCycles as integer = 0
+        dim oldMemory as new list(of string)        
 
         while true
             
@@ -27,18 +26,34 @@ Module Module1
                 if largestIndex = memory.count() then largestIndex = 0
                 memory(largestIndex) += 1
                 largestIndex += 1
-            next
+            next            
 
-            redistCycles += 1
+            dim currentMemory as string = string.join(",", memory)
 
             ' Check if memory is in old memory            
-            if oldMemory.contains(string.join(",", memory)) then
-                console.writeline(redistCycles)
+            if oldMemory.contains(currentMemory) then
+
+                ' Find distance of same memory state from end as answer 
+               '' dim counter as integer = 0
+               '' dim startCounter as boolean = false                
+               '' for each mem in oldMemory
+                  ''  if mem = currentMemory then startCounter = true
+                  ''  if startCounter = true then counter += 1
+               '' next
+
+                for i = 0 to oldMemory.count - 1
+                    if oldMemory(i) = currentMemory then
+                        console.writeline(oldMemory.count() - i)
+                        exit for
+                    end if
+                next
+
+                'console.writeline(counter)
                 exit while
             end if
 
             ' Adds memory state to list that can be checked for same states.
-            oldMemory.add(string.join(",", memory))
+            oldMemory.add(currentMemory)
 
         end while
 
