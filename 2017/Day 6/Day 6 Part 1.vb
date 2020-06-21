@@ -8,7 +8,6 @@ Module Module1
         dim memory = array.convertall(m, Function(str) Int32.Parse(str))
         
         dim oldMemory as new list(of string)
-        dim redistCycles as integer = 0
 
         while true
             
@@ -29,11 +28,9 @@ Module Module1
                 largestIndex += 1
             next
 
-            redistCycles += 1
-
             ' Check if memory is in old memory            
             if oldMemory.contains(string.join(",", memory)) then
-                console.writeline(redistCycles)
+                console.writeline(oldMemory.count + 1)
                 exit while
             end if
 

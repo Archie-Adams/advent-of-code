@@ -32,13 +32,9 @@ Module Module1
 
             ' Check if memory is in old memory            
             if oldMemory.contains(currentMemory) then
-
-                for i = 0 to oldMemory.count - 1
-                    if oldMemory(i) = currentMemory then
-                        console.writeline(oldMemory.count() - i)
-                        exit for
-                    end if
-                next
+                dim difference as integer 
+                difference = oldMemory.count() - oldMemory.IndexOf(currentMemory)
+                console.writeline(difference)
                 exit while
             end if
 
