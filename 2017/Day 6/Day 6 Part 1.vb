@@ -18,12 +18,12 @@ Module Module1
                 if memory(i) > memory(largestIndex) then largestIndex = i
             next
 
-            dim memoryToDistrobute as integer = memory(largestIndex)
+            dim memoryToDistribute as integer = memory(largestIndex)
             memory(largestIndex) = 0
 
             ' Distribute the memory block. 
             largestIndex += 1 ' To start the distribution at the next index. 
-            for i = memoryToDistrobute to 1 step -1
+            for i = memoryToDistribute to 1 step -1
                 if largestIndex = memory.count() then largestIndex = 0
                 memory(largestIndex) += 1
                 largestIndex += 1
