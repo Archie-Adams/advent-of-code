@@ -1,4 +1,5 @@
-﻿Imports System.Collections.Generic
+﻿' https://adventofcode.com/2017/day/5
+' Archie Adams - 20/06/2020
 
 Module Module1
 

@@ -1,17 +1,20 @@
-﻿imports System.IO.File
+﻿' https://adventofcode.com/2017/day/4
+' Archie Adams - 20/06/2020
+
+imports System.IO.File
 Imports System.Collections.Generic
 
 Module Module1
 
     Sub Main()
         
-        Dim input As List(Of String) = ReadAllLines("input.txt").ToList
         Dim acceptedPasscodes As Integer = 0
 
-        For Each line In input
+        For Each line In ReadAllLines("input.txt").ToList
 
             ' Split line on spaces to an array.
-            dim words as string() = line.split(new string() {" "}, stringsplitoptions.none)
+            dim words as string()
+            words = line.split(new string() {" "}, stringsplitoptions.none)
 
             ' Check if all values in the array are unique.
             dim matchingWords as boolean = false
@@ -22,7 +25,7 @@ Module Module1
                         exit for
                     end if
                 next
-                if matchingWords = true then exit for
+                if matchingWords then exit for
             next
 
             if matchingWords = false then acceptedPasscodes += 1            

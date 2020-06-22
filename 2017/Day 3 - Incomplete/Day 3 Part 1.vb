@@ -1,4 +1,7 @@
-﻿Module Module1
+﻿' https://adventofcode.com/2017/day/3
+' Archie Adams - 
+
+Module Module1
 
     Sub Main()
 

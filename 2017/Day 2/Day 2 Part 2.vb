@@ -1,4 +1,7 @@
-﻿Imports System.IO.File
+﻿' https://adventofcode.com/2017/day/2
+' Archie Adams - 20/06/2020
+
+Imports System.IO.File
 Imports System.Collections.Generic
 
 Module Module1

@@ -1,3 +1,6 @@
+' https://adventofcode.com/2017/day/6
+' Archie Adams - 21/06/2020
+
 Imports System.Collections.Generic
 
 Module Module1
