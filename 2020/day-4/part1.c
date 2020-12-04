@@ -6,15 +6,6 @@ const char PUZZLE_INPUT[] = "input.txt";
 
 #define NUM_OF_FIELDS 7 // [0->n-1].
 #define MAX_DATA_SIZE 20
-// const char FIELDS[NUM_OF_FIELDS][3] = {{"byr"},  // 0
-//                                        {"iyr"},  // 1
-//                                        {"eyr"},  // 2
-//                                        {"hgt"},  // 3
-//                                        {"hcl"},  // 4
-//                                        {"ecl"},  // 5
-//                                        {"pid"},  // 6
-//                                        {"cid"}}; // 7
-// ----------------------------------------------------------------------------
 
 // Globals. -------------------------------------------------------------------
 // ----------------------------------------------------------------------------
@@ -81,31 +72,5 @@ int getNumberOfPassports()
     }
 
     fclose(inputFile);
-    // printf("%i", numberOfPassports); // DEBUG
     return numberOfPassports;
-
-    // char buffer[MAX_LINE_CHARS]; // Tempary storeage for each line.
-    // // While line is successfully read.
-    // while (fscanf(inputFile, "%s", buffer) == 1)
-    //     printf("%c\n", buffer[0]);
-    // if (buffer[0] == '\0')
-    // { // MAYBE '\n' <------------ TODO
-    //     numberOfPassports++;
-    //     printf("+1\n");
-    // }
-
-    // // EOF Reached.
-    // if (feof(inputFile))
-    // {
-    //     fclose(inputFile);
-    //     return numberOfPassports;
-    // }
-
-    // // File read has stopped for some other reason.
-    // else
-    // {
-    //     fclose(inputFile);
-    //     printf("-----\nError in getNumberOfPassports()\n-----\n");
-    //     return -1;
-    // }
 }
