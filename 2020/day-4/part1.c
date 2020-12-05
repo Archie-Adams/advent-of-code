@@ -74,6 +74,7 @@ void main()
         }
     }
     printf("valid passports: %i\n", validPassports);
+    //
 }
 
 // Populates the passport array with data from PUZZLE_INPUT[].
