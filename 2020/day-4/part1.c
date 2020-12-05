@@ -48,6 +48,32 @@ void main()
     readPassportDataToArray(passports);
 
     // Do part1 logic.
+    int validPassports = 0;
+    for (int i = 0; i <= numOfPassports; i++)
+    {
+        // If all fields are present.
+        if (passports[i]->numOfValidFields == 8)
+        {
+            validPassports++;
+        }
+        else if (passports[i]->numOfValidFields == 7)
+        {
+            int fail = 0;
+            for (int f = 0; f < 7; f++)
+            {
+                if (strcmp(passports[i]->fields[f]->field, "cid") == 0)
+                { //fail
+                    fail = 1;
+                    break;
+                }
+                if (fail != 1)
+                {
+                    validPassports++;
+                }
+            }
+        }
+    }
+    printf("valid passports: %i\n", validPassports);
 }
 
 // Populates the passport array with data from PUZZLE_INPUT[].
