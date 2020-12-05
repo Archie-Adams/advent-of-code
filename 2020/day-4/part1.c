@@ -6,7 +6,7 @@
 const int MAX_LINE_CHARS = 80;
 const char PUZZLE_INPUT[] = "input.txt";
 
-#define NUM_OF_FIELDS 7 // [0->n-1].
+#define NUM_OF_FIELDS 8 // [0->n-1].
 #define MAX_DATA_SIZE 20
 
 // Globals. -------------------------------------------------------------------
@@ -58,23 +58,21 @@ void main()
         }
         else if (passports[i]->numOfValidFields == 7)
         {
+            // If 'cid' is a present field then fail.
             int fail = 0;
             for (int f = 0; f < 7; f++)
-            {
                 if (strcmp(passports[i]->fields[f]->field, "cid") == 0)
-                { //fail
+                {
                     fail = 1;
                     break;
                 }
-                if (fail != 1)
-                {
-                    validPassports++;
-                }
-            }
+
+            // If 'cid' was not present then passport is valid.
+            if (fail != 1)
+                validPassports++;
         }
     }
-    printf("valid passports: %i\n", validPassports);
-    //
+    printf("Valid passports: %i\n", validPassports);
 }
 
 // Populates the passport array with data from PUZZLE_INPUT[].
@@ -109,6 +107,7 @@ void readPassportDataToArray(Passport *passports[])
 
                 // Add data to new field struct.
                 strcpy(f->field, s);
+                // printf("%s\n", s);
                 s = strtok(NULL, ": \n");
                 strcpy(f->data, s);
                 s = strtok(NULL, ": \n");
@@ -132,7 +131,7 @@ void addPassport(Passport *passports[], PassportField *fieldHolder[],
 
     // Assign collected data to new passport.
     p->numOfValidFields = count + 1; // Var is 1->n.
-    for (int i = 0; i < count; i++)
+    for (int i = 0; i < count + 1; i++)
         p->fields[i] = fieldHolder[i];
 
     // Add passport to the array.
