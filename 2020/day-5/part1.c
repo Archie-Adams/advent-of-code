@@ -5,8 +5,6 @@
 #define INPUT_PATH "input.txt"
 #define NUM_OF_SEATS 846
 
-void middle(int *lower, int *upper, int half);
-
 int main()
 {
     // Variables.
