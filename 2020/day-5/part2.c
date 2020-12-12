@@ -52,6 +52,7 @@ int main()
         }
 }
 
+// https://rosettacode.org/wiki/Sort_an_integer_array#C
 int intcmp(const void *aa, const void *bb)
 {
     const int *a = aa, *b = bb;
