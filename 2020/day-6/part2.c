@@ -3,6 +3,7 @@
 #include <string.h>
 
 #define MAX_LINE_CHARS 80
+#define MAX_ALPHABET 26
 #define PUZZLE_INPUT "input.txt"
 
 void main()
@@ -10,13 +11,13 @@ void main()
     FILE *inputFile = fopen(PUZZLE_INPUT, "r");
 
     // Array to store all seen characters in a group.
-    char seenInGroup[26];
+    char seenInGroup[MAX_ALPHABET];
     seenInGroup[0] = '\0';
 
     int countOfAllYes = 0;
     int firstLineOfGroup = 1; // 1 when on first line, 0 otherwise.
 
-    char line[80];
+    char line[MAX_LINE_CHARS];
     while (fgets(line, sizeof(line), inputFile) != NULL)
     {
 
@@ -25,7 +26,8 @@ void main()
         {
             // Increment counter of previous group.
             // printf("Old Count: %d\n", countOfAllYes); // DEBUG
-            countOfAllYes += strlen(seenInGroup);
+            if (seenInGroup[0] != '\0')
+                countOfAllYes += strlen(seenInGroup);
             // printf("New Count: %d\n", countOfAllYes); // DEBUG
 
             // Reset vars for next group.
