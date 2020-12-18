@@ -1,26 +1,29 @@
-# LIST OF TUPLES: (BAG COLOUR, LIST OF TUPLES: (NUMBER, BAG COLOUR))
-lstRules = []
+import re
 
-with open('input.txt') as input_file:
-    for lineCount, line in enumerate(input_file):
-        line = line.replace(' bags', '').replace(' bag', '')
-        words = line.replace(',', '').replace('.', '').strip().split(' ')
+rules = []
+contains_gold = set()
 
-        lstRules.append(('{} {}'.format(words[0], words[1]), []))
 
-        # If bag contains no others, don't try to add more.
-        if words[3] == 'no':
-            continue
+def canContainShinyGold(colour):
 
-        # wordCount is index of number of bags parent bag can carry in words.
-        for wordCount, number in enumerate(words[3::3]):
-            wordCount += 3
-            # print(words)
-            # print(wordCount)
-            # print(number)
-            colour = '{} {}'.format(words[wordCount + 1], words[wordCount + 2])
-            print(colour)
-            lstRules[lineCount][1].append((number, colour))
+    # If already seen this colour don't do more work.
+    if colour in contains_gold or colour == "shiny gold":
+        return True
 
-        # break
-print(lstRules)
+    # For each sub colour the given colour can hold.
+    for sub_colour in rules[[item[0] for item in rules].index(colour)][1:]:
+        if canContainShinyGold(sub_colour[2:]):
+            contains_gold.add(sub_colour[2:])
+            return True
+
+
+# Parse rules to a list.
+rgx = r'(^(?:\w+\s\w+){1,2}|\d+\s\w+\s\w+)'
+rules = [re.findall(rgx, line) for line in open('input.txt')]
+
+for rule in rules:
+    if canContainShinyGold(rule[0]):
+        contains_gold.add(rule[0])
+
+# -1 due to shiny gold bag not being in a shiny gold bag.
+print(len(contains_gold) - 1)
