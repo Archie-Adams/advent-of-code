@@ -6,4 +6,4 @@ https://adventofcode.com/
 
 2019 is written in Python 3.8
 
-2020 is written in C
+2020 is written in both Python and C
